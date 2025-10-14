@@ -24,7 +24,7 @@ To write a Python program to create a class `Student` with the private members `
 ---
 
 ### PROGRAM
-
+```
 Reg no-212222060174
 Name-Pavithra.s
 class Student:
@@ -51,11 +51,7 @@ print("Name:", b.get_name(),b.get_age())```
 
 <img width="723" height="173" alt="image" src="https://github.com/user-attachments/assets/43d07b9d-c022-46aa-b5d5-f16de431f94e" />
 
-RESULT
-This program for create a class Student with the private members name and age, and add getter and setter methods to initialize and modify the age variable is successfully executed.
-
-
-
 ### RESULT
 
+This program for create a class Student with the private members name and age, and add getter and setter methods to initialize and modify the age variable is successfully executed.
 
