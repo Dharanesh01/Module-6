@@ -26,8 +26,7 @@ To write a Python program to create a `Counter` class that can increment the val
 ### PROGRAM
 
 ```
-Reg no-212222060174
-Name-Pavithra.S
+
 
 class Counter:
     def __init__(self):
@@ -52,6 +51,7 @@ print(counter.value())
 ```
 
 ### OUTPUT
+
 <img width="827" height="164" alt="image" src="https://github.com/user-attachments/assets/4324efa3-bdbf-4257-940c-859f43f91c80" />
 
 ### RESULT
