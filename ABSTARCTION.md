@@ -34,9 +34,6 @@ To write a Python program to define the abstract base class named `Polygon` and 
 ### PROGRAM
 
 ```
-Reg no-212222060174
-Name-Pavithra.s
-
 from abc import ABC  
   
 class Polygon(ABC):   
