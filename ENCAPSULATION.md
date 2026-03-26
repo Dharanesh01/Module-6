@@ -25,8 +25,7 @@ To write a Python program to create a class `Student` with the private members `
 
 ### PROGRAM
 ```
-Reg no-212222060174
-Name-Pavithra.s
+
 class Student:
     def __init__(self, name, age):
         self.name = name
@@ -46,6 +45,7 @@ b.set_age(16)
 print("Name:", b.get_name(),b.get_age())```
 
 ```
+
 
 **### OUTPUT**
 
